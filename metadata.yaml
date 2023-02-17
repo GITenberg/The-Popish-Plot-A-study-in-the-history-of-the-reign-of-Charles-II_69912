@@ -1,0 +1,30 @@
+_repo: The-Popish-Plot-A-study-in-the-history-of-the-reign-of-Charles-II_69912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pollock, John
+    alias: Pollock, Frederick John
+    birthdate: 1878
+    deathdate: 1963
+    gutenberg_agent_id: '25173'
+    url: http://www.gutenberg.org/2009/agents/25173
+description: ''
+gutenberg_issued: '2023-01-30'
+identifiers:
+  gutenberg: '69912'
+language: en
+pgterms:marc904: https://archive.org/details/popishplotstudyi00poll
+pgterms:marc905: 20200224131159pollock
+pgterms:marc906: '1903'
+pgterms:marc907: GB
+production_note: deaurider, Quentin Campbell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United Kingdom: Duckworth and Co.,1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Popish Plot: A study in the history of the reign of Charles II'
+url: http://www.gutenberg.org/ebooks/69912
