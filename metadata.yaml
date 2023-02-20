@@ -1,5 +1,8 @@
 _repo: The-Popish-Plot-A-study-in-the-history-of-the-reign-of-Charles-II_69912
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69912-h/images/cover.jpg
 creator:
   author:
     agent_name: Pollock, John
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '25173'
     url: http://www.gutenberg.org/2009/agents/25173
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69912#The-Popish-Plot-A-study-in-the-history-of-the-reign-of-Charles-II
 gutenberg_issued: '2023-01-30'
 identifiers:
   gutenberg: '69912'
